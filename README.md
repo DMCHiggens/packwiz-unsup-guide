@@ -8,7 +8,7 @@ Please note this guide assumes you have a basic understanding of GitHub, Git, an
 
 ## Step 1: Fork the template repository
 
-Fork the template repository to your GitHub account.
+Fork this template repository to your GitHub account.
 
 ## Step 2: Clone the forked repository
 
@@ -91,12 +91,24 @@ git push
 
 ## Step 10: Share your modpack
 
-If everything works, you can now share your modpack with others. They simply need to:
+If everything works, you can now share your modpack with others.
+
+### Using Prism Launcher
+They simply need to:
 
 1. Drag the zip into Prism Launcher.
 2. Launch it.
 
-> **Recommendation:** Add the zip to **GitHub Releases** for your repository so that others can easily download it.
+### Using Other Launchers
+Here Unsup needs to be installed, a launch argument added, and the .ini file added manually to the .minecraft folder.
+
+1. Download the newest **stable** unsup.jar from the [offical releases](https://git.sleeping.town/exa/unsup/releases).
+2. Locate the JVM Arguments and add `-javaagent:unsup-x.x.x.jar` in the beggining (should look like `unsup-1.2.7.jar`.)
+3. Download the unsup.ini from your repository.
+4. Verify both unsup-x.x.x.jar and unsup.ini files are in the correct .minecraft directory.
+5. Launch as normal.
+
+> **Recommendation:** Add the zip and unsup.ini to **GitHub Releases** for your repository so that others can easily download it. 
 
 ---
 
