@@ -1,0 +1,8 @@
+name = "Tethered"
+filename = "view"
+side = "both"
+
+[download]
+url = "https://drive.google.com/file/d/1dwuvkk8tPjAB1tTRPWblhrUW5nLrdH_n/view?usp=sharing"
+hash-format = "sha256"
+hash = "b3f8f5a494a01901973f695731581731bbd9c8248ce5c9875496c32de56a8f83"

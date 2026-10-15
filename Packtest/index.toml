@@ -4,3 +4,13 @@ hash-format = "sha256"
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
+
+[[files]]
+file = "mods/tethered.pw.toml"
+hash = "93b1e2ba2d6f9198fbab4c05c4ba6e9ea704a689f21d821b5ccdae3b68c7e0b1"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "62eaf7c193d20dbec89944f6e1401ce64a80d8d704830a988d24c1498d8316e2"
+metafile = true

@@ -1,13 +1,16 @@
 name = "testing shit"
 author = "Ivvelis"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4ceed9603cc28c80ae0b8e7a5080134a7a62472104d91c309d172b8d801c19e3"
+hash = "1d410f64fb1cf250c21b1eab366051860dcf4fd5a36ee779c665f4ad5c6d71f0"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.259"
+
+[options]
+acceptable-game-versions = []
