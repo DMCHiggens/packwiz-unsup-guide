@@ -1,12 +1,12 @@
 name = "testing shit"
 author = "Ivvelis"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "04791ed567b101c04797cb68da5c100758e155974462546982c22e6c89534b2e"
+hash = "994d3191575cb909d51d350ed77fd7fbda1ebf205a727bdebe2098c4977635bb"
 
 [versions]
 minecraft = "1.21.1"
